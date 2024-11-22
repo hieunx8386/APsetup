@@ -1,4 +1,4 @@
-After cloning this repository \n
-Move to the folder by: \n
-cd APsetup \n
+After cloning this repository <br />
+Move to the folder by: <br />
+cd APsetup <br />
 sudo bash prepare2.sh
